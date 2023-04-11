@@ -1,0 +1,1 @@
+Li, Chaoshun & Tang, Geng & Xue, Xiaoming & Chen, Xinbiao & Wang, Ruoheng & Zhang, Chu. (2019). Deep interval prediction model with gradient descend optimization method for short-term wind power prediction. 

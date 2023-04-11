@@ -1,0 +1,1 @@
+Hanczar, Blaise & Zehraoui, Farida & Issa, Tina & Arles, Mathieu. (2020). Biological interpretation of deep neural network for phenotype prediction based on gene expression. BMC Bioinformatics. 21. 10.1186/s12859-020-03836-4. 

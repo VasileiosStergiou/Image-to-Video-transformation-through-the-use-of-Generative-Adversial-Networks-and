@@ -1,0 +1,1 @@
+van Dyck, Leonard & Kwitt, Roland & Denzler, Sebastian & Gruber, Walter. (2021). Comparing Object Recognition in Humans and Deep Convolutional Neural Networks—An Eye Tracking Study. Frontiers in Neuroscience. 15. 750639. 10.3389/fnins.2021.750639. 

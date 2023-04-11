@@ -1,0 +1,1 @@
+Kingma, Diederik & Welling, Max. (2013). Auto-Encoding Variational Bayes. ICLR. 

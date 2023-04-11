@@ -1,0 +1,1 @@
+Bulat, Adrian & Tzimiropoulos, Georgios. (2017). How Far are We from Solving the 2D & 3D Face Alignment Problem? (and a Dataset of 230,000 3D Facial Landmarks). 10.1109/ICCV.2017.116. 

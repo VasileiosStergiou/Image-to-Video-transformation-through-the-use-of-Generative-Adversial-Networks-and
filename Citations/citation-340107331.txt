@@ -1,0 +1,1 @@
+Tang, Geng & Xue, Xiaoming & Chen, Xinbiao & Wang, Ruoheng & Zhang, Chu. (2020). The short-term interval prediction of wind power using the deep learning model with gradient descend optimization. Renewable Energy. 155. 10.1016/j.renene.2020.03.098. 

@@ -1,0 +1,1 @@
+Drobyshev, Nikita & Chelishev, Jenya & Khakhulin, Taras & Ivakhnenko, Aleksei & Lempitsky, Victor & Zakharov, Egor. (2022). MegaPortraits: One-shot Megapixel Neural Head Avatars. 10.48550/arXiv.2207.07621. 

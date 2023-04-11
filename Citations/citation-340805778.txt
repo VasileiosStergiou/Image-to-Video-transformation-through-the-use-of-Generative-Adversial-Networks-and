@@ -1,0 +1,1 @@
+Lu, Yulong & Lu, Jianfeng. (2020). A Universal Approximation Theorem of Deep Neural Networks for Expressing Distributions. 

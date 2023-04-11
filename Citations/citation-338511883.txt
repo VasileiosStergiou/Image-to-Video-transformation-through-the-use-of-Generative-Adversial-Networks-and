@@ -1,0 +1,1 @@
+Grigorev, Artur & Sevastopolsky, Artem & Vakhitov, Alexander & Lempitsky, Victor. (2019). Coordinate-Based Texture Inpainting for Pose-Guided Human Image Generation. 12127-12136. 10.1109/CVPR.2019.01241. 
